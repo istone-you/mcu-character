@@ -1,0 +1,1160 @@
+{
+ "warmachine": {
+  "file": "Colonel Rhodes.JPG",
+  "sub": "Promotional",
+  "path": "images/debut/warmachine.jpg",
+  "alts": [
+   "Colonel Rhodes.JPG",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "IM-rhodey.jpg",
+   "Rhodey-PlaneRide.jpg",
+   "Rhodey-JustATrainingExercise.jpg",
+   "Rhodes palace.png",
+   "Rhodes award.png",
+   "Rhodey1-IM.png",
+   "RhodeyArrivesInAfghanistanHungover.jpg",
+   "Lt. Col. James Rhodes.png",
+   "James Rhodes (2008).png",
+   "Lieutenant Colonel Rhodes.png",
+   "Lieutenant Colonel James Rhodes.png",
+   "RhodesEnteringMilitaryBase.jpg"
+  ]
+ },
+ "iron-man": {
+  "file": "Tony-stark2.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/iron-man.jpg",
+  "alts": [
+   "Tony-stark2.jpg",
+   "Iron Man (Tony Stark) - Iron Man Promo.jpg",
+   "Iron Man poster 2.png",
+   "Iron Man Official Poster.jpg",
+   "Iron Man No Credit Poster.jpg",
+   "Iron Man poster 3.png",
+   "French Iron Man Poster.jpg",
+   "Iron Man Simple Poster.png",
+   "Iron Man poster 1.png",
+   "Iron Man Square Poster.jpg",
+   "Tony Stark Promo.jpg",
+   "Iron Man Armor Progression Poster.jpg",
+   "Iron Man D+.jpeg",
+   "Iron Man D+ Cover Card.jpeg"
+  ]
+ },
+ "nickfury": {
+  "file": "Nick Fury (2008).png",
+  "sub": "manual",
+  "path": "images/debut/nickfury.png"
+ },
+ "happy": {
+  "file": "HappyHogan-FirstScene-IM.jpg",
+  "sub": "manual",
+  "path": "images/debut/happy.jpg"
+ },
+ "coulson": {
+  "file": "Phil Coulson (Iron Man 2008).png",
+  "sub": "manual",
+  "path": "images/debut/coulson.png"
+ },
+ "pepper": {
+  "file": "Iron-Man-2008-Pepper.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/pepper.jpg",
+  "alts": [
+   "Iron-Man-2008-Pepper.jpg",
+   "Iron-man-pepper-potts.jpg",
+   "Pepper Potts Searching.jpg",
+   "Pepper Potts IM Tall Still.jpg",
+   "Pepper Potts Fundraiser.jpg",
+   "Pepper.png",
+   "Pepper-Potts-Pizza-Party.jpg",
+   "Pepper (Walt Disney Concert Hall).png",
+   "Pepper-Potts-AreThoseBulletHoles.jpg",
+   "Pepper-Potts-hacking.jpg",
+   "Pepper-Potts-searches-for-Stane.jpg",
+   "Pepper-Potts-attacked-Iron-Monger.jpg",
+   "Pepper-Potts-PushTheButton.jpg",
+   "Potts.jpg"
+  ]
+ },
+ "hulk": {
+  "file": "The Incredible Hulk Marvel Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/hulk.jpg",
+  "alts": [
+   "The Incredible Hulk Marvel Poster.jpg",
+   "The Incredible Hulk Simple Poster.png",
+   "Hulk unused poster 6.jpg",
+   "Hulk unused poster 5.jpg",
+   "Hulk unused poster 4.jpg",
+   "Hulk unused poster 3.jpg",
+   "Hulk unused poster 2.jpg",
+   "Hulk unused poster 1.jpg",
+   "The Incredible Hulk Trending Poster.jpeg",
+   "The Incredible Hulk.jpg",
+   "Bruce Banner - Edward Norton - The Incredible Hulk.jpg",
+   "The Incredible Hulk banner.png",
+   "The Incredible Hulk D+ Cover Card (Old).jpg",
+   "The Incredible Hulk D+.jpeg"
+  ]
+ },
+ "widow": {
+  "file": "BlackWidow IronMan2 poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/widow.jpg",
+  "alts": [
+   "BlackWidow IronMan2 poster.jpg",
+   "Black-Widow-Iron-Man-2-promo.jpg",
+   "IM2 - 2010 poster.jpg",
+   "Black Widow Iron Man 2 Disney+ Poster.jpg",
+   "IronMan2 BW.jpg",
+   "Natasha-Romanoff-IM2.png",
+   "Natasha secretary.PNG",
+   "Natasha Romanoff (IM2).png",
+   "Natasha Romanoff.png",
+   "Iron-Man-Black-Widow.jpg",
+   "Black Widow First Look.png",
+   "Natasha screenshot.PNG",
+   "NatashaRomanoff-IM2.png",
+   "JHammer-vs-BlackWidow.jpg"
+  ]
+ },
+ "hawkeye": {
+  "file": "BartontakingaimatThor.png",
+  "sub": "manual",
+  "path": "images/debut/hawkeye.png"
+ },
+ "thor": {
+  "file": "Thor-movie-image.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/thor.jpg",
+  "alts": [
+   "Thor-movie-image.jpg",
+   "ThorPoster3.jpg",
+   "Thor Official Poster.jpg",
+   "Thor italian poster.png",
+   "Thor Official Poster 2.jpg",
+   "Thor 'Spectacular' Poster.png",
+   "Thor red poster.png",
+   "Thor looking down poster.png",
+   "Thor on bifrost poster.png",
+   "Thor Simple Poster.png",
+   "ThorGodofThunderPoster.jpg",
+   "Thor Trending Poster.jpg",
+   "Thor Square Poster.jpg",
+   "Thordisney+.png"
+  ]
+ },
+ "heimdall": {
+  "file": "Heimdall Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/heimdall.jpg",
+  "alts": [
+   "Heimdall Poster.jpg",
+   "Heimdall Promo.jpg",
+   "Heimdall vs Jotuns promo image.jpg",
+   "The Guardian of Worlds.jpg",
+   "Heimdall-opens-Bifrost-Bridge.jpg",
+   "Heimdall-ConfrontingWarriorsThree.jpg",
+   "OdinThrowsHeimdallHisSword.jpg",
+   "HeimdallEyes.JPG",
+   "HeimdallWatches image.png",
+   "WarriorsAndSifBeforeHeimdall.jpg",
+   "HeimdallObservatory.png",
+   "Heimdall angry.jpg",
+   "HeimdallBreakingIce.jpg",
+   "GrundrothBeheadedByHeimdall.jpg"
+  ]
+ },
+ "loki": {
+  "file": "Loki Odinson May 6.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/loki.jpg",
+  "alts": [
+   "Loki Odinson May 6.jpg",
+   "Loki Promo.jpg",
+   "Loki (2010).jpg",
+   "Loki (Casket of Ancient Winters).jpg",
+   "Loki-PostFrostGiantRaid.jpg",
+   "Loki-CorneredOnJotunheim.jpg",
+   "Loki-BlueArm.jpg",
+   "Loki (Jotunheim).png",
+   "Loki-WeMustGo.png",
+   "Loki-learns-the-truth.jpg",
+   "Loki - Children's Book.png",
+   "Loki-speaks-to-Laufey.jpg",
+   "Loki-NowIAmYourKing.jpg",
+   "Loki-Orders-The-Destroyer1.jpg"
+  ]
+ },
+ "cap": {
+  "file": "Captain America - The First Avenger Simple Poster.png",
+  "sub": "Promotional",
+  "path": "images/debut/cap.png",
+  "alts": [
+   "Captain America - The First Avenger Simple Poster.png",
+   "Cap.jpg",
+   "CaptainAmericaTheFirstAvengerPoster.jpg",
+   "CaptainAmericaTheFirstAvengerComicConPoster.jpg",
+   "Captain America The First Avenger France Poster.jpg",
+   "CaptainAmericaTheFirstAvengerPoster2.jpg",
+   "Captain-america-TFAmovie-poster.jpg",
+   "CaptainAmericaTheFirstAvengerPoster3.jpg",
+   "Captain-america-retro-poster.jpg",
+   "Captain America The First Avengers Mondo poster 1.jpg",
+   "Captain America The First Avengers Mondo poster 2.jpg",
+   "Captain America The First Avengers Mondo poster 3.jpg",
+   "Captain America The First Avenger Trending Poster.jpeg",
+   "Captain America The First Avenger Square Poster.jpg"
+  ]
+ },
+ "bucky": {
+  "file": "Bucky Barnes (1943).jpg",
+  "sub": "manual",
+  "path": "images/debut/bucky.jpg"
+ },
+ "peggy": {
+  "file": "PeggyCarter-Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/peggy.jpg",
+  "alts": [
+   "PeggyCarter-Poster.jpg",
+   "PeggyCarter-CATFA.jpg",
+   "CaptainAmericaTheFirstAvengerComicConPoster.jpg",
+   "CaptainAmericaTheFirstAvengerPoster3.jpg",
+   "Captain-america-retro-poster.jpg",
+   "CATFA-artwork.jpg",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "CA TFA Peggy Carter Promotional.jpg",
+   "Dunkin Donuts Promo - Peggy Carter.jpg",
+   "Peggy-Carter-Super-Soldier.jpg",
+   "Peggy - Ready, Aim, Fire.jpg",
+   "Agent Peggy Carter.jpg",
+   "Agent Carter Arrives (Camp Lehigh).png",
+   "Peggy Carter First Scene.png"
+  ]
+ },
+ "redskull": {
+  "file": "Red Skull poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/redskull.jpg",
+  "alts": [
+   "Red Skull poster.jpg",
+   "CaptainAmericaTheFirstAvengerComicConPoster.jpg",
+   "CaptainAmericaTheFirstAvengerPoster3.jpg",
+   "Captain-america-retro-poster.jpg",
+   "Red Skull - Ryan Meinerding.jpg",
+   "Red Skull-Limited-Edition-Limited-Edition-Collectible-Figurine PR1.jpg",
+   "Red Skull Promo.jpg",
+   "CA TFA Red Skull Promotional.jpg",
+   "Dunkin Donuts Promo - Johann Schmidt.jpg",
+   "Dunkin Donuts Promo - Red Skull.jpg",
+   "Red Skull - HYDRA Emblem.png",
+   "Schmidt-Erskine.png",
+   "Red Skull (Johann Schmidt).png",
+   "Red Skull.png"
+  ]
+ },
+ "thanos": {
+  "file": "Thanos The Avengers promo.jpg",
+  "sub": "manual",
+  "path": "images/debut/thanos.jpg"
+ },
+ "mariahill": {
+  "file": "Hill poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/mariahill.jpg",
+  "alts": [
+   "Hill poster.jpg",
+   "Maria Hill File.png",
+   "Maria Hill.jpg",
+   "Cobie-Smulders-Agent-Maria-Hill-Avengers.jpg",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "Avengers50 infinitysaga variant.jpg",
+   "Commander Maria Hill.jpg",
+   "Maria-Hill-Watches-Battle-of-New-York-Avengers.jpg",
+   "Maria-hill-avengers.jpg",
+   "Maria.jpg",
+   "Hladtjisgfbbsewqpklm10.jpg",
+   "MariaHill-TADS-1.png",
+   "MariaHill-TADS-2.png",
+   "Maria 1.jpg"
+  ]
+ },
+ "falcon": {
+  "file": "Sam Wilson (2014).jpg",
+  "sub": "manual",
+  "path": "images/debut/falcon.jpg"
+ },
+ "gamora": {
+  "file": "GotG Gamora Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/gamora.jpg",
+  "alts": [
+   "GotG Gamora Poster.jpg",
+   "GotG Gamora Poster Alternate.jpg",
+   "Gamora Promo Art Decor I.png",
+   "GuardiansoftheGalaxyTheatricalPoster.jpg",
+   "Gamora Promo Art Decor II.jpg",
+   "Guardiansofthegalaxy avatar gamora.png",
+   "guardians of the galaxy  hi res textless poster  by ihaveanawesomename-d7xy5ua.jpg",
+   "Overlay charactergamora desktop.jpg",
+   "Gamora (Xandar).png",
+   "Gamora-breakout-Orb.jpg",
+   "Gamora-WeAreNotLeaving.jpg",
+   "Gamora-YouAreDispicable.jpg",
+   "Gamora-Dying-Space-GOTG.png",
+   "Gamora-After-Battle.png"
+  ]
+ },
+ "groot": {
+  "file": "GotG Groot Poster.jpg",
+  "sub": "manual",
+  "path": "images/debut/groot.jpg"
+ },
+ "drax": {
+  "file": "GotG Drax Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/drax.jpg",
+  "alts": [
+   "GotG Drax Poster.jpg",
+   "Drax illustrated poster.jpg",
+   "Guardians of the galaxy hi res textless poster by ihaveanawesomename-d7xy5ua.jpg",
+   "Drax Promo Wall Decor.png",
+   "Drax Promo Wall Decor 2.png",
+   "Guardiansofthegalaxy avatar drax.png",
+   "Overlay characterdrax desktop.jpg",
+   "Drax (2014).jpg",
+   "Drax canadapromo.jpg",
+   "Drax-FirstLook.jpg",
+   "Drax-ILikeYourKnife.jpg",
+   "Drax-YoureAnImbecile.jpg",
+   "Drax-DrunkKnowhere.jpg",
+   "Drax-IWasThinkingOfSomethingElse.jpg"
+  ]
+ },
+ "nebula": {
+  "file": "Nebula poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/nebula.jpg",
+  "alts": [
+   "Nebula poster.jpg",
+   "GOTG Mondo poster.jpg",
+   "Guardians Empire Villains.jpg",
+   "Nebula canadapromo.jpg",
+   "Nebula-Dark-Aster-First-Scene.png",
+   "Nebula-arm-repair.jpg",
+   "Nebula-Klyn-Guard.png",
+   "Nebula-Pilot.png",
+   "Nebula-Orb-Explosion.png",
+   "Nebula-Dark-Aster-Explosion.png",
+   "Nebula-Broken-Jaw.png",
+   "Nebula.PNG",
+   "Nebula-YoureBothCrazy.jpg",
+   "Nebula-Escape1.png"
+  ]
+ },
+ "starlord": {
+  "file": "Star-Lord (GotG).jpg",
+  "sub": "Promotional",
+  "path": "images/debut/starlord.jpg",
+  "alts": [
+   "Star-Lord (GotG).jpg",
+   "GotG Star-Lord Poster.jpg",
+   "Star-Lord illustrated poster.jpg",
+   "Guardians-of-the-galaxy-mondo-poster-star-lord.jpg",
+   "Guardians of the galaxy hi res textless poster by ihaveanawesomename-d7xy5ua.jpg",
+   "Star-Lord Promo Art Decor II.png",
+   "Star-Lord Promo Art Decor III.png",
+   "Star-Lord Entertainment Cover.jpg",
+   "Star-Lord Promo Art Decor I.jpg",
+   "Guardiansofthegalaxy avatar star-lord.png",
+   "Star-Lord EW raccoon shoulder.png",
+   "Star-Lord EW bar.png",
+   "Star-Lord EW gun.png",
+   "Star-Lord EW raccoon.png"
+  ]
+ },
+ "rocket": {
+  "file": "GotG Rocket Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/rocket.jpg",
+  "alts": [
+   "GotG Rocket Poster.jpg",
+   "Rocket illustrated poster.jpg",
+   "Guardians of the galaxy hi res textless poster by ihaveanawesomename-d7xy5ua.jpg",
+   "Rocket Cutout Render.png",
+   "Rocket Promo Art Decor II.jpg",
+   "Guardiansofthegalaxy avatar rocket.png",
+   "Rocket Raccoon Disney+ Profile Icon.png",
+   "Rocket Promo Art Decor I.png",
+   "Overlay characterrocket desktop.jpg",
+   "Rocket (89P13) Record.png",
+   "Rocket-HeNoTalkGoodLikeYou&Me.jpg",
+   "Rocket-DraggedOutIntoKlynCell.jpg",
+   "Rocket-Orb-mocking-Collector.jpg",
+   "Rocket-Explosion.png"
+  ]
+ },
+ "ronan": {
+  "file": "Ronan poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/ronan.jpg",
+  "alts": [
+   "Ronan poster.jpg",
+   "Ronan Promo Art.png",
+   "RONANGOTG (2).jpg",
+   "Ronan.jpg",
+   "Ronan.png",
+   "Ronan illustrated poster.jpg",
+   "Lee-Pace-Ronan.png",
+   "Ronan-Armor.png",
+   "Ronan-KylnPrison.jpg",
+   "Ronan-CleansesKylnPrison.jpg",
+   "Ronan-0.png",
+   "Ronan-YouDareOpposeMe.jpg",
+   "Ronan-YouBurn.png",
+   "Ronan-Evil-Laugh.png"
+  ]
+ },
+ "kingpin": {
+  "file": "DDevil Soundtrack 2.JPG",
+  "sub": "",
+  "path": "images/debut/kingpin.jpg",
+  "alts": [
+   "DDevil Soundtrack 2.JPG",
+   "Wilson Fisk Funko Pop.png"
+  ]
+ },
+ "daredevil": {
+  "file": "Marvel Legends Daredevil.jpg",
+  "sub": "",
+  "path": "images/debut/daredevil.jpg",
+  "alts": [
+   "Marvel Legends Daredevil.jpg",
+   "Daredevil keychain.png",
+   "Daredevil Statue.jpeg",
+   "DST DD2.jpg",
+   "DDevil Soundtrack.JPG",
+   "DST DD3.jpg",
+   "Daredevil Hot Toys 1.jpg",
+   "Daredevil Hot Toys 4.jpg",
+   "Daredevil Hot Toys 5.jpg",
+   "Daredevil Funko Pop.png",
+   "Matt Murdock Funko Pop.png",
+   "Daredevil Hot Toys 2.jpg",
+   "Daredevil Hot Toys 3.jpg",
+   "Daredevil Hot Toys 6.jpg"
+  ]
+ },
+ "ultron": {
+  "file": "Avengers Age Of Ultron Unpublished Character Poster h JPosters.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/ultron.jpg",
+  "alts": [
+   "Avengers Age Of Ultron Unpublished Character Poster h JPosters.jpg",
+   "Ultron AoU Poster.jpg",
+   "Ultron EW Poster.png",
+   "Avengers Age of Ultron Tyler Stout poster 1.jpg",
+   "Avengers Age of Ultron Tyler Stout poster 2.jpg",
+   "Avengers Age of Ultron Square Poster.jpg",
+   "Age of Ultron Hero Complex.jpg",
+   "Ultron Hero Complex.jpg",
+   "Ultron AOU Skype promo.jpg",
+   "Avengers-Age-of-Ultron-IMAX-HR-3.jpg",
+   "Ultron AOU logo.png",
+   "Ultron AOU avatar.png",
+   "Avengers Age of Ultron D+ Cover Card.jpeg",
+   "Ultron Profile.png"
+  ]
+ },
+ "scarletwitch": {
+  "file": "Scarlet Witch Wanda-Age Of Ultron 5.png",
+  "sub": "manual",
+  "path": "images/debut/scarletwitch.png"
+ },
+ "vision": {
+  "file": "Vision AoU.jpg",
+  "sub": "manual",
+  "path": "images/debut/vision.jpg"
+ },
+ "cassie": {
+  "file": "Cassie 1.png",
+  "sub": "manual",
+  "path": "images/debut/cassie.png"
+ },
+ "antman": {
+  "file": "Ant-Man Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/antman.jpg",
+  "alts": [
+   "Ant-Man Poster.jpg",
+   "Ant-Man Simple Poster.png",
+   "Ant-Man Poster.png",
+   "Ant-Man Heroes Don't Get Any Bigger poster.jpg",
+   "Ant-Man Bodyguards Poster.jpg",
+   "Ant-Man Russian Poster.jpg",
+   "Ant-Man German Poster.jpg",
+   "Ant-Man UK poster.jpg",
+   "Ant-Man Scott poster.jpg",
+   "Ant-Man Pym poster.jpg",
+   "Ant-Man Dave poster.jpg",
+   "Ant-Man Luis poster.jpg",
+   "Ant-Man Paxton poster.jpg",
+   "Ant-Man Textless Poster Variant.jpg"
+  ]
+ },
+ "hankpym": {
+  "file": "Ant-Man Pym poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/hankpym.jpg",
+  "alts": [
+   "Ant-Man Pym poster.jpg",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "Pym-Knowledge-Quantum-Realm.jpeg",
+   "Pym-Watches-AntMan-Avengers-Facility.jpeg",
+   "Pym-We'reAllTakingRisks.jpeg",
+   "Pym-Cross-Attempted-Murder.jpeg",
+   "Pym-Speaks-PoPo.jpeg",
+   "Pym-Welcomed-Cross.jpeg",
+   "Pym-Gun-Cross.jpeg",
+   "Pym-Wounded.jpeg",
+   "Pym-Awkward-Moment.jpeg",
+   "Pym-Introduces-Wasp-Suit.jpeg",
+   "Young Hank Pym .jpg",
+   "YoungPym-locks-safe.png"
+  ]
+ },
+ "wasp": {
+  "file": "Ant-Man Hope poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/wasp.jpg",
+  "alts": [
+   "Ant-Man Hope poster.jpg",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "Hope.png",
+   "Hope-YellowjacketPresentation.jpeg",
+   "Hope-Dinner.jpeg",
+   "Hope-Particle-testing.jpeg",
+   "Hope-Concerns-Heist.jpeg",
+   "Hope-Useless.jpeg",
+   "Hope-Pym-Ant-Communication.jpeg",
+   "Hope-Punching-Lesson.jpeg",
+   "Hope-Janet-Death.jpeg",
+   "Hope-Wasp.png",
+   "Hope van Dyne (2015).jpg",
+   "HopeVanDyne-Discusses-Mission.jpeg"
+  ]
+ },
+ "tchalla": {
+  "file": "T'Challa.jpg",
+  "sub": "manual",
+  "path": "images/debut/tchalla.jpg"
+ },
+ "spiderman": {
+  "file": "Spider-Man (Leipzig Airport).jpg",
+  "sub": "manual",
+  "path": "images/debut/spiderman.jpg"
+ },
+ "zemo": {
+  "file": "ZemoDemandsMissionReport.jpg",
+  "sub": "manual",
+  "path": "images/debut/zemo.jpg"
+ },
+ "wong": {
+  "file": "Wong Spanish Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/wong.jpg",
+  "alts": [
+   "Wong Spanish Poster.jpg",
+   "Disney DS Poster.JPG",
+   "DS Empire Cover 2.jpg",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "Eaglemoss wong.png",
+   "Doctor Strange Character Poster 01.jpg",
+   "Doctor Strange IMAX poster.jpg",
+   "Doctor Strange Jacob Escobedo Poster.png",
+   "Wong - Book of the Invisible Sun.png",
+   "WongCollectingBooks.jpg",
+   "Wong HK Sanctum.jpg",
+   "WongImpaledOnSpike.jpg",
+   "WongAdvisingDrStange-DS.jpg",
+   "DS P 08.jpg"
+  ]
+ },
+ "ancientone": {
+  "file": "Ancient One Spanish Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/ancientone.jpg",
+  "alts": [
+   "Ancient One Spanish Poster.jpg",
+   "DS Guidebook Ancient One.png",
+   "Ancient One promo.jpg",
+   "Disney DS Poster.JPG",
+   "Ancient One Matt Ferguson poster.jpg",
+   "DS Empire Cover 2.jpg",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "Ancient One (2017).png",
+   "Ancient One & Karl Mordo.jpg",
+   "Ancient One 1.png",
+   "Zealots vs. Ancient One.png",
+   "Ancient One Magic.png",
+   "Ancient One Meets DS-0.png",
+   "Dark Ancient One.png"
+  ]
+ },
+ "strange": {
+  "file": "DrStrangePoster2.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/strange.jpg",
+  "alts": [
+   "DrStrangePoster2.jpg",
+   "Doctor-Strange-Comic-Con-Poster.jpg",
+   "StrangePoster.jpg",
+   "Doctor Strange Trending Poster.jpeg",
+   "Doctor Strange Simple Poster.png",
+   "Doctor Strange Character Poster 02.jpg",
+   "Doctor Strange IMAX poster.jpg",
+   "Strange Spanish Poster.jpg",
+   "Doctor Strange IMAX Poster.jpg",
+   "Doctor Strange IMAX poster 2.jpg",
+   "Doctor Strange IMAX 3D Poster .jpg",
+   "Doctor Strange Jacob Escobedo Poster.png",
+   "Doctor-strange-quad-poster.jpg",
+   "Doctor-strange-poster-art.jpg"
+  ]
+ },
+ "dormammu": {
+  "file": "Dormammu 1.png",
+  "sub": "manual",
+  "path": "images/debut/dormammu.png"
+ },
+ "ego": {
+  "file": "Ego GOTG2 Poster.png",
+  "sub": "Promotional",
+  "path": "images/debut/ego.png",
+  "alts": [
+   "Ego GOTG2 Poster.png",
+   "Ego Promo.jpg",
+   "ego.PNG",
+   "First Ten Years Villains Poster.jpg",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "Guardiansofthegalaxy1 infinitysagavariant 0.jpg",
+   "Ego Empire.jpg",
+   "Ego (Celestial Regeneration).png",
+   "Meredith & Ego (Missouri 1980).png",
+   "Meredith & Ego (1980).png",
+   "Ego & his River Lily (1980).png",
+   "Guardians meet Ego.png",
+   "Planet Ego.png",
+   "Ego's Planet.png"
+  ]
+ },
+ "mantis": {
+  "file": "Mantis GOTG2 Poster.png",
+  "sub": "Promotional",
+  "path": "images/debut/mantis.png",
+  "alts": [
+   "Mantis GOTG2 Poster.png",
+   "GOTG Vol 2 IMAX Textless Poster.jpg",
+   "Mantis Promotional.jpg",
+   "GotGV2 Chinese Poster.jpg",
+   "GOTG Vol 2 IMAX Poster.jpg",
+   "GOTG Vol.2 INT Character poster 08.jpg",
+   "Gotg Vol.2 Asian Posters 08.jpg",
+   "Gotg Vol.2 Ukraikian Poster.jpg",
+   "Mantis-240x240.jpg",
+   "GOTG2 RealD mini-poster1.jpg",
+   "GOTG2 Payoff 1 Sheet Online lg.jpg",
+   "GotGV2 Empire Cover.jpg",
+   "cool-new-guardians-of-the-galaxy-vol-2-poster-art-and-3-tv-spots1.jpeg",
+   "Mantis canadapromo.jpg"
+  ]
+ },
+ "vulture": {
+  "file": "Adrian Toomes (GCT Salvage).png",
+  "sub": "manual",
+  "path": "images/debut/vulture.png"
+ },
+ "hela": {
+  "file": "Hela - Return to Asgard.png",
+  "sub": "manual",
+  "path": "images/debut/hela.png"
+ },
+ "valkyrie": {
+  "file": "Valkyrie-TR-FirstScene.jpg",
+  "sub": "manual",
+  "path": "images/debut/valkyrie.jpg"
+ },
+ "killmonger": {
+  "file": "Killmonger EW Promo.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/killmonger.jpg",
+  "alts": [
+   "Killmonger EW Promo.jpg",
+   "First Ten Years Villains Poster.jpg",
+   "Marvel Studios The First Ten Years Emojis.jpg",
+   "Erik-killmonger-glow-in-the-dark-279-5642-1.jpg",
+   "BlackPanther Score Cover.jpg",
+   "Killmonger-ItsFromWakanda.png",
+   "Killmonger-WhydYouNotShootHimHere.jpg",
+   "Killmonger-1911-Loaded-MC-Operator.png",
+   "Killmonger-MilitaryFile.jpg",
+   "Killmonger-AskMyName.jpg",
+   "Killmonger-RevealsFamilySecrets.jpg",
+   "Erik-Ancestral Plane.png",
+   "Killmonger-MaybeYourHomeIsLost.jpg",
+   "Killmonger-YouHeardYourOders.jpg"
+  ]
+ },
+ "captainmarvel": {
+  "file": "Carol Danvers Captain Marvel.jpg",
+  "sub": "manual",
+  "path": "images/debut/captainmarvel.jpg"
+ },
+ "talos": {
+  "file": "Talos (promotional).jpg",
+  "sub": "Promotional",
+  "path": "images/debut/talos.jpg",
+  "alts": [
+   "Talos (promotional).jpg",
+   "Talos promo art.png",
+   "Talos (Captain Marvel).jpg",
+   "CaptainMarvel - EMPIRE.jpg",
+   "Skrull EW.jpg",
+   "Talos (Torfa).png",
+   "Talos-Keller-StealingIdentity.png",
+   "Talos (June 1995).png",
+   "Talos (1995).png",
+   "Talos (Louisiana).png",
+   "Talos in Vers' Dream.png",
+   "Talos Hologram.png",
+   "Talos Torfa.png",
+   "Talos sunrise.png"
+  ]
+ },
+ "mysterio": {
+  "file": "Mysterio FFH Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/mysterio.jpg",
+  "alts": [
+   "Mysterio FFH Poster.jpg",
+   "Official FFH US Poster.jpg",
+   "Official FFH US Poster 2.jpeg",
+   "Far From Home Spanish Poster.jpg",
+   "FFH Dolby Poster.jpg",
+   "FFH Dual Suit Poster.jpg",
+   "Sony Pictures Far From Home Poster.jpg",
+   "Mysterio Far From Home Promotional.jpg",
+   "Mysterio Wallpaper.jpg",
+   "MYSTERIO.png",
+   "Mysterio.png",
+   "Mysterio (Far From Home).png",
+   "Mysterio (2023).png",
+   "Mysterio.jpg"
+  ]
+ },
+ "agatha": {
+  "file": "Agatha in Witch Outfit as seen on Previously On episode tshirt Merchandise 01.jpg",
+  "sub": "Season One",
+  "path": "images/debut/agatha.jpg",
+  "alts": [
+   "Agatha in Witch Outfit as seen on Previously On episode tshirt Merchandise 01.jpg",
+   "Agatha in Witch Outfit as seen on Previously On episode tshirt Merchandise 02.jpg",
+   "Agleg.jpeg",
+   "Agatha All Along Merch.png",
+   "Funko Agatha.jpg",
+   "Agatha All Along socks on WandaVision Merchandise.jpg",
+   "Lego cmf series 2.jpg",
+   "Lego cmf series 2 box.jpg",
+   "Lego cmf series 2 lineup.jpg",
+   "Agatha Harkness Tshirt Merchandise from WandaVision Episode 7.jpg"
+  ]
+ },
+ "monica": {
+  "file": "Monica Rambeau Funko Pop.jpg",
+  "sub": "Season One",
+  "path": "images/debut/monica.jpg",
+  "alts": [
+   "Monica Rambeau Funko Pop.jpg",
+   "Marvel Studios Phase 4 Lego4.png",
+   "Monogram Products Merch for WandaVision.png",
+   "Marvel Studios Phase 4 Lego2.jpg",
+   "Monica Rambeau WandaVision Funko Pop Figure.jpg",
+   "Addtional SWORD Merch for WandaVision Episodes 1 to 7.jpg"
+  ]
+ },
+ "sylvie": {
+  "file": "Sylvie cosbaby pr image 1.jpg",
+  "sub": "Season One",
+  "path": "images/debut/sylvie.jpg",
+  "alts": [
+   "Sylvie cosbaby pr image 1.jpg",
+   "Sylvie box.png",
+   "Sylvie Leg.jpeg",
+   "Sylvie merch--.jpeg",
+   "Hasbro figure9.jpg",
+   "Sylvie Funko Pop.jpg",
+   "Loki new t-shirt3.jpg",
+   "Loki OST Vol 1.png",
+   "Sylvie Hot Toys 1.jpg",
+   "Sylvie Hot Toys 2.jpg",
+   "Sylvie Hot Toys 3.jpg",
+   "Sylvie Hot Toys 4.jpg",
+   "Sylvie Hot Toys 5.jpg",
+   "Loki merch--.png"
+  ]
+ },
+ "redguardian": {
+  "file": "Red Guardian Character Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/redguardian.jpg",
+  "alts": [
+   "Red Guardian Character Poster.jpg",
+   "BW Poster Book.jpg",
+   "BW 2021 Stills 09.jpg",
+   "Red Guardian (1995).png",
+   "Alexei-.png",
+   "Red Guardian (2016).png",
+   "Red Guardian.png",
+   "Red Guardian (BW).png",
+   "Red Guardian (Red Room).png",
+   "Red Guardian (Taskmaster Shield).png",
+   "Redguardianlookson.jpg",
+   "Alexei Shostakov (Ohio 1995).png",
+   "Melina & Alexei (1995).png",
+   "Alexei & Melina (1995).png"
+  ]
+ },
+ "yelena": {
+  "file": "Yelena Belova (Morocco).png",
+  "sub": "manual",
+  "path": "images/debut/yelena.png"
+ },
+ "shangchi": {
+  "file": "Shang-Chi theatrical poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/shangchi.jpg",
+  "alts": [
+   "Shang-Chi theatrical poster.jpg",
+   "Shang-Chi Character Poster.jpg",
+   "Shang-Chi and the Legend of the Ten Rings Simple Poster.png",
+   "Shang-Chi New Poster.jpg",
+   "Shang-Chi international poster.jpg",
+   "Shang-Chi IMAX poster.jpg",
+   "Shang-Chi 4DX poster.jpg",
+   "Shang-Chi Real 3D poster.jpg",
+   "Shang-Chi red poster.jpg",
+   "Shang-Chi new international poster.jpg",
+   "Shang-Chi Art Poster 2.png",
+   "Shang-Chi Art Poster3.png",
+   "Shang-Chi Art Poster4.jpg",
+   "Shang-Chi art poster.jpg"
+  ]
+ },
+ "wenwu": {
+  "file": "Mandarin Character Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/wenwu.jpg",
+  "alts": [
+   "Mandarin Character Poster.jpg",
+   "WenwuTheMandarin.jpg",
+   "Mandarin promo art.png",
+   "Mandarin promo art2.png",
+   "Wenwu (1996).png",
+   "Wenwu.png",
+   "Wenwu (Ten Rings HQ).png",
+   "Wenwu (2024).png",
+   "Wenwu (Ta Lo).png",
+   "Xu Wenwu.png",
+   "Wenwu shield.png",
+   "Wenwu's Office.png",
+   "Xu Wenwu (1996).png",
+   "Wenwu meets Ying Li.png"
+  ]
+ },
+ "ikaris": {
+  "file": "Ikaris - Character Poster - Eternals.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/ikaris.jpg",
+  "alts": [
+   "Ikaris - Character Poster - Eternals.jpg",
+   "Ikaris Silhouette Poster.png",
+   "Ikaris EW cover.jpg",
+   "EternalsPoster.jpeg",
+   "Eternals Trending Poster.jpeg",
+   "Eternals Temporary D+ Cover Poster.jpg",
+   "Eternals Temporary D+ Cover Poster 2.jpg",
+   "Eternals Simple Poster.png",
+   "Eternals Hong Kong Film Poster.jpg",
+   "Eternals RealD3D poster.jpg",
+   "Eternals 4DX poster.jpg",
+   "Eternals Dolby poster.jpg",
+   "Eternals IMAX poster.jpg",
+   "Ikaris Disney+ Profile Icon.png"
+  ]
+ },
+ "thena": {
+  "file": "Thena Character Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/thena.jpg",
+  "alts": [
+   "Thena Character Poster.jpg",
+   "Thena Silhouette Poster.png",
+   "Thena EW cover.jpg",
+   "Thena and Gilgamesh Total Film.png",
+   "EternalsPoster.jpeg",
+   "Eternals Trending Poster.jpeg",
+   "Eternals Temporary D+ Cover Poster.jpg",
+   "Eternals Temporary D+ Cover Poster 2.jpg",
+   "Eternals Simple Poster.png",
+   "Eternals Hong Kong Film Poster.jpg",
+   "Eternals RealD3D poster.jpg",
+   "Eternals 4DX poster.jpg",
+   "Thena fighting.png",
+   "Thena fighting 2.png"
+  ]
+ },
+ "sersi": {
+  "file": "Sersi - Character Poster - Eternals.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/sersi.jpg",
+  "alts": [
+   "Sersi - Character Poster - Eternals.jpg",
+   "Sersi Silhouette Poster.png",
+   "Sersi EW cover.jpg",
+   "EternalsPoster.jpeg",
+   "Eternals Trending Poster.jpeg",
+   "Eternals Temporary D+ Cover Poster.jpg",
+   "Eternals Temporary D+ Cover Poster 2.jpg",
+   "Eternals Simple Poster.png",
+   "Eternals Hong Kong Film Poster.jpg",
+   "Eternals RealD3D poster.jpg",
+   "Sersi Disney+ Profile Icon.png",
+   "Sersi-MarvelEternals.png",
+   "Sersi-Is-Chosen.png",
+   "Sersi (Australia).png"
+  ]
+ },
+ "katebishop": {
+  "file": "Legends Kate.jpeg",
+  "sub": "Season One",
+  "path": "images/debut/katebishop.jpg",
+  "alts": [
+   "Legends Kate.jpeg",
+   "Kate Episode 3 Funko.jpg",
+   "Hawkeye Home Video 1.jpg",
+   "Hawkeye Home Video 2.jpg",
+   "Kate Bishop Funko Pop 2.png",
+   "Kate Bishop Funko Pop.png",
+   "Lego cmf series 2.jpg",
+   "Lego cmf series 2 box.jpg",
+   "Lego cmf series 2 lineup.jpg"
+  ]
+ },
+ "goblin": {
+  "file": "Green Goblin NWH Poster.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/goblin.jpg",
+  "alts": [
+   "Green Goblin NWH Poster.jpg",
+   "No Way Home Poster Tall.jpg",
+   "No Way Home Poster Tall 2.jpg",
+   "Spidey 3 Poster 2.jpeg",
+   "Osborn (NWH).png",
+   "Norman (NWH).png",
+   "Norman.png",
+   "Osborn.png",
+   "Goblin.png",
+   "Osborn (No Way Home).png",
+   "Osborn (2024).png",
+   "GREEN GOBLIN.png",
+   "Green Goblin.png",
+   "Green Goblin (Alexander Hamilton Bridge).png"
+  ]
+ },
+ "moonknight": {
+  "file": "Legends Moon Knight.jpeg",
+  "sub": "Season One",
+  "path": "images/debut/moonknight.jpg",
+  "alts": [
+   "Legends Moon Knight.jpeg",
+   "Moon Knight Collector.jpg",
+   "Moon Knight Cards.jpg",
+   "Moon Knight Discs.jpg",
+   "Moon Knight Complete Home Video package.jpg",
+   "Mr. Knight Marvel Legends.jpg",
+   "Funko POP Hot - GITD Moon Knight.jpg",
+   "Moon Knight Funko Pop.jpg",
+   "Art of the Series Books Promo Image.jpg",
+   "TFATWS and MK Home Video.jpg",
+   "Arthur Harrow and Mr. Knight Funko.png",
+   "Lego cmf series 2.jpg",
+   "Lego cmf series 2 box.jpg",
+   "Lego cmf series 2 lineup.jpg"
+  ]
+ },
+ "msmarvel": {
+  "file": "Legends Kamala.jpeg",
+  "sub": "Season One",
+  "path": "images/debut/msmarvel.jpg",
+  "alts": [
+   "Legends Kamala.jpeg",
+   "Ms. Marvel Funko Pop and Funko Pop Keychain.jpg"
+  ]
+ },
+ "gorr": {
+  "file": "Gorr SpecialPoster.png",
+  "sub": "Promotional",
+  "path": "images/debut/gorr.png",
+  "alts": [
+   "Gorr SpecialPoster.png",
+   "Gorr.png",
+   "Gorr is going somewhere.png",
+   "Gorr holding love.png",
+   "Gorr love rock.png",
+   "Gorr and love.png",
+   "Gorr sleeping.png",
+   "Gorr on desert.png",
+   "Gorr alone.png",
+   "Gorr finds necrosword.png",
+   "Gorr eating.png",
+   "Gorr meets rapu.png",
+   "Gorr praying.png",
+   "Gorr talks with rapu.png"
+  ]
+ },
+ "shehulk": {
+  "file": "She-hulk-cup.jpg",
+  "sub": "Season One",
+  "path": "images/debut/shehulk.jpg",
+  "alts": [
+   "She-hulk-cup.jpg",
+   "Legends She-Hulk.jpeg",
+   "Jennifer Walters Funko pop.jpg",
+   "She-Hulk Gala funko pop.jpg",
+   "She-Hulk suit funko pop.jpg",
+   "Jennifer & abomination and she-hulk jumbo funko.png",
+   "Jennifer & abomination funko.png",
+   "Jennifer & abomination funko moment.png",
+   "Lego cmf series 2.jpg",
+   "Lego cmf series 2 box.jpg",
+   "Lego cmf series 2 lineup.jpg"
+  ]
+ },
+ "namor": {
+  "file": "Namor.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/namor.jpg",
+  "alts": [
+   "Namor.jpg",
+   "Namorofficial.jpg",
+   "Namor Empire Exclusive 2.jpg",
+   "Namor Steel Cover.jpg",
+   "BPWF Character Poster 03.jpg",
+   "Namor - Full Render.jpg",
+   "Namor - Full Render 2.jpg",
+   "NamorBP2promo.jpg",
+   "Namor2BP2promo.jpg",
+   "Black Panther Wakanda Forever Namor Temporary D+ Cover Poster.jpg",
+   "BPWF Art Poster 1.png",
+   "King Namor.jpg",
+   "Boss Logic WF.jpeg",
+   "Talokan Throne.png"
+  ]
+ },
+ "kang": {
+  "file": "Kang the Conqueror (Quantumania).png",
+  "sub": "manual",
+  "path": "images/debut/kang.png"
+ },
+ "deadpool": {
+  "file": "Deadpool Peeking.jpg",
+  "sub": "manual",
+  "path": "images/debut/deadpool.jpg"
+ },
+ "wolverine": {
+  "file": "Logan.jpeg",
+  "sub": "Promotional",
+  "path": "images/debut/wolverine.jpg",
+  "alts": [
+   "Logan.jpeg",
+   "Sad Wolverine Meme.jpg",
+   "Popcorn Bucket Poster DW.jpg",
+   "Deadpool & Wolverine Pendant Wide Poster.jpg",
+   "Deadpool & Wolverine Pendant Poster.jpg",
+   "Deadpool vs Wolverine Poster.jpg",
+   "Deadpool vs Wolverine Tall Poster.jpg",
+   "Deadpool vs Wolverine Tall Poster (Billing Block).jpg",
+   "Deadpool & Wolverine D+ Cover Poster.jpg",
+   "Wolverine (TVA).jpg",
+   "Wolverine (D&W).jpg",
+   "Sad Logan.png",
+   "Wolverine - Let's Fucking Go.jpg",
+   "Wolverine (Void).png"
+  ]
+ },
+ "okoye": {
+  "file": "Okoye EW Promo.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/okoye.jpg",
+  "alts": [
+   "Okoye EW Promo.jpg",
+   "DRRyKB2W0AAZ9Ci.jpg",
+   "DRRyKh5XUAAr1CO.jpg",
+   "Okoye (Handsfree Piloting).png",
+   "Okoye.png",
+   "Okoye-Nakia-BPanther-ReturnHome.jpg",
+   "Okoye-DisplaysKlaueOnTheCouncil.jpg",
+   "Okoye-GunsSoPrimative.jpg",
+   "Okoye-Nakia-GettingPickUpByERoss.jpg",
+   "Okoye-Nakia-ThePeopleAreWatching.jpg",
+   "Okoye-ListensWithTChalla-InterRoom.jpg",
+   "Okoye (Kimoyo Bead Hologram).png",
+   "Okoye-Ramonda-RingEvidence.jpg",
+   "Okoye-AttacksInBattleForWakanda-BP.jpg"
+  ]
+ },
+ "shuri": {
+  "file": "Shuri EW Promo.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/shuri.jpg",
+  "alts": [
+   "Shuri EW Promo.jpg",
+   "SupplementaryImage A1 o.jpg",
+   "cac732-1-1.jpg",
+   "Shuri-JustBecauseItWorksItCantBeImproved.png",
+   "Shuri-TChalla-ERoss-AnalyzingSurgery.png",
+   "61JKHDOYPDL.jpg",
+   "Marvel Disney+ Main Page (Phase 4).jpg",
+   "Shuri and mother.jpg",
+   "Shuri fights.jpg",
+   "Shurijabariland.jpg",
+   "Shuri Ramonda escape.jpg",
+   "Ayo, Ramonda & Shuri.png",
+   "Ramonda & Shuri.png",
+   "Shuri Middle Finger.png"
+  ]
+ },
+ "usagent": {
+  "file": "MSAS1 Poster 2.jpg",
+  "sub": "Promotional",
+  "path": "images/debut/usagent.jpg",
+  "alts": [
+   "MSAS1 Poster 2.jpg",
+   "TFATWS shirt 14.jpg",
+   "02771466-4C28-4ED8-8B7E-08F19BEDEBF3.jpeg",
+   "TFATWS Collector.jpg",
+   "TFATWS Cards.jpg",
+   "TFATWS Complete Home Video package.jpg",
+   "TFATWS and MK Home Video.jpg",
+   "The Falcon and The Winter Soldier Assembled D+ Cover Poster.jpg",
+   "TFATWS merch poster 2.jpg",
+   "Walker Cap Marvel Legends.jpeg",
+   "Legends US Agent.jpeg",
+   "US Agent Funko Pop.jpg",
+   "51627-falcon-winter-soldier-john-f-walker-funko-pop-vinyl-popcultcha.png",
+   "The Falcon and The Winter Soldier Assembled Cover Card.jpeg"
+  ]
+ }
+}
